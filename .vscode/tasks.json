@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "dotnet",
+            "task":"build C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\switchCase\\switchCase.csproj",
+            "file":"C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\switchCase\\switchCase.csproj", 
+            "problemMatcher":[],
+            "label": "build switchCase",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
